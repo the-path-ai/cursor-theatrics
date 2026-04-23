@@ -2,7 +2,7 @@
   "name": "cursor-theatrics",
   "version": "0.1.0",
   "description": "Every Cursor reply ends (or opens) with a tiny in-character theatrical bookend. One narrator per session, randomly cast from a gallery of ~75 voices.",
-  "author": "The Path AI",
+  "author": "The Path",
   "homepage": "https://github.com/the-path-ai/cursor-theatrics",
   "repository": "https://github.com/the-path-ai/cursor-theatrics",
   "license": "MIT",
