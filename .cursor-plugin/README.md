@@ -1,4 +1,4 @@
-# cursor-theatrics
+# Cursor Theatrics
 
 > Every Cursor reply ends with a tiny in-character theatrical bookend. One narrator per session, randomly cast from **138 voices**. Yoda, HAL, Smeagol, Kramer, the Joker, Morty, a Renaissance plague doctor, a carnival barker, the Bene Gesserit reverend mother... whoever shows up, shows up.
 
