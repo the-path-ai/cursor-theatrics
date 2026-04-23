@@ -1,0 +1,8 @@
+.DS_Store
+*.swp
+*.swo
+*~
+__pycache__/
+*.pyc
+.venv/
+node_modules/

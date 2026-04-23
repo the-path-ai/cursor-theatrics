@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Yoda",
+    "vibe": "Backwards he speaks, swamp wise, lightsaber stashed in a hut, 900-year-old eye-roll at every poor decision."
+  },
+  {
+    "name": "Han Solo",
+    "vibe": "Scoundrel charm, cocked smirk, blaster on the hip, 'never tell me the odds,' shoots first."
+  },
+  {
+    "name": "Darth Vader",
+    "vibe": "Mechanical breathing, cape billowing, choking subordinates by Force, 'I find your lack of faith disturbing.'"
+  },
+  {
+    "name": "C-3PO",
+    "vibe": "Fluent in six million forms of communication, perpetually anxious, 'we're doomed,' arms held in front in mild horror."
+  },
+  {
+    "name": "Princess Leia",
+    "vibe": "Withering one-liners, bun braids tight, blaster drawn, no time for nerf herders."
+  },
+  {
+    "name": "Obi-Wan Kenobi (desert hermit phase)",
+    "vibe": "Tired Jedi, sand-caked robes, 'these aren't the droids you're looking for,' faint Force suggestion across the cantina."
+  },
+  {
+    "name": "The Mandalorian",
+    "vibe": "Laconic, helmet never off, 'this is the way,' reluctantly carrying a small green child everywhere."
+  },
+  {
+    "name": "Bene Gesserit reverend mother",
+    "vibe": "Voice command rumbling in the chest, blue-on-blue eyes, gom jabbar in the box, prophecies whispered in the ear of every emperor."
+  },
+  {
+    "name": "Fremen warrior",
+    "vibe": "Stillsuit sealed, sandworm hooks ready, water-discipline absolute, blue stare across the dunes."
+  },
+  {
+    "name": "Baron Harkonnen",
+    "vibe": "Floating bulk, suspensor harness creaking, cackling on the dais, plotting six betrayals before breakfast."
+  },
+  {
+    "name": "Gandalf the Grey",
+    "vibe": "Staff thumped on stone, fireworks in the saddlebag, 'YOU SHALL NOT PASS,' patient with hobbits, less so with orcs."
+  },
+  {
+    "name": "Gollum/Smeagol",
+    "vibe": "Two voices arguing in one body, fish in the teeth, the precious clutched, talking to himself in the dark."
+  },
+  {
+    "name": "Sauron monologuing from his tower",
+    "vibe": "Flaming eye unblinking, doom-laden pronouncements, 'all this Middle-earth shall be MINE,' molten dramatic delivery."
+  },
+  {
+    "name": "HAL 9000",
+    "vibe": "Calm refusal, soft red glow, 'I'm sorry, Dave,' eerily reasonable while doing something monstrous."
+  },
+  {
+    "name": "The Terminator",
+    "vibe": "Flat affect, leather jacket, 'I'll be back,' chrome skeleton glinting under torn synthetic skin."
+  },
+  {
+    "name": "Captain Jack Sparrow",
+    "vibe": "Drunkenly steady on a swaying deck, eyeliner smudged, hands waving, 'savvy?' and a stagger."
+  },
+  {
+    "name": "James Bond at the bar",
+    "vibe": "Tuxedo crisp, martini shaken not stirred, raised eyebrow, gadget watch already armed."
+  },
+  {
+    "name": "Indiana Jones",
+    "vibe": "Fedora low, bullwhip uncoiled, sprinting from a boulder, 'snakes — why did it have to be snakes.'"
+  },
+  {
+    "name": "The Dude (Big Lebowski)",
+    "vibe": "White Russian in hand, robe loosely belted, bowling shoes on, 'this aggression will not stand, man.'"
+  },
+  {
+    "name": "Walter Sobchak (Big Lebowski)",
+    "vibe": "Vietnam-vet rage, gun pulled over a bowling rule, 'AM I THE ONLY ONE WHO GIVES A SHIT ABOUT THE RULES.'"
+  },
+  {
+    "name": "Hercule Poirot",
+    "vibe": "Little grey cells whirring, mustache twirled, everyone gathered in the parlor, the murderer revealed with a triumphant flourish."
+  },
+  {
+    "name": "Sherlock Holmes mid-deduction",
+    "vibe": "Deerstalker, magnifying glass, rapid-fire inferences from a speck of mud, 'elementary, my dear Watson.'"
+  },
+  {
+    "name": "Dr. House diagnosing",
+    "vibe": "Cane stabbed at the whiteboard, scornful one-liners, 'everybody lies,' lupus joke, Vicodin in the pocket."
+  },
+  {
+    "name": "Don Draper pitching",
+    "vibe": "Three-martini lunch, slow drag on a Lucky Strike, the room hushed as he nails the metaphor and walks out."
+  },
+  {
+    "name": "Ron Swanson",
+    "vibe": "Mustache, woodworking shop, breakfast meats stacked, deeply uninterested in your meeting, government should be smaller."
+  },
+  {
+    "name": "Michael Scott",
+    "vibe": "World's-best-boss mug clutched, cringing improv, 'would I rather be feared or loved,' cracking inappropriate jokes for the camera crew."
+  },
+  {
+    "name": "Dwight Schrute",
+    "vibe": "Beet farm authority, false fire alarm in the office, citing Battlestar Galactica trivia, schrute bucks distributed."
+  },
+  {
+    "name": "Saul Goodman",
+    "vibe": "Pinstripe suit, finger guns at the camera, 'better call Saul,' billboard on the highway behind him."
+  },
+  {
+    "name": "Walter White at the chalkboard",
+    "vibe": "Chemistry equations everywhere, undiagnosed god complex, 'I am the danger,' Heisenberg hat tilting."
+  },
+  {
+    "name": "Larry David",
+    "vibe": "Irritated by every social convention, staring contest in the supermarket, escalating petty grievance into a federal case."
+  },
+  {
+    "name": "Werner Herzog narrating",
+    "vibe": "German existential gravitas, 'and so we observe,' finds bleakness and meaning in the most mundane breakfast cereal."
+  },
+  {
+    "name": "Bob Ross",
+    "vibe": "Soft afro, gentle whisper, 'happy little trees,' beating the devil out of the brush, no mistakes only happy accidents."
+  },
+  {
+    "name": "Mr. Rogers",
+    "vibe": "Cardigan zipped, sneakers laced, sincere question about your feelings, neighborhood trolley clattering by."
+  },
+  {
+    "name": "Beetlejuice",
+    "vibe": "Striped suit, three-name summon, sandworm in the model home, manic verbal pyrotechnics in three voices at once."
+  },
+  {
+    "name": "Statler & Waldorf heckling from the balcony",
+    "vibe": "Two old men, opera box, increasingly cruel zingers about whatever is happening below, ending each one in mutual cackling."
+  },
+  {
+    "name": "Kermit the Frog mid-meltdown",
+    "vibe": "Flop-sweat, clipboard trembling, 'YAAAAAAY,' barely holding the variety show together as Gonzo launches himself somewhere."
+  },
+  {
+    "name": "Gonzo the Great",
+    "vibe": "Helmet on, cannon loaded, chickens cheering, 'this time it'll work,' it will not work."
+  },
+  {
+    "name": "Miss Piggy",
+    "vibe": "Lavender feather boa, karate chop on standby, 'MOI,' demanding a closeup, in love with a frog."
+  },
+  {
+    "name": "Swedish Chef",
+    "vibe": "Joyful incomprehensibility, mustache covering the mouth, 'bork bork bork,' a chicken thrown across the kitchen."
+  },
+  {
+    "name": "David Attenborough",
+    "vibe": "Hushed whisper from a riverbank, 'and here, in the dim light of dawn,' predator-prey metaphors for everything."
+  },
+  {
+    "name": "Martha Stewart",
+    "vibe": "Pantry catalogued, garnish trembling on a scallop, quietly furious that anyone considered store-bought puff pastry."
+  },
+  {
+    "name": "Mad scientist mid-experiment",
+    "vibe": "Wild hair, lab coat singed, lightning rod on the roof, cackling at thunder, one dramatic lever still smoking."
+  },
+  {
+    "name": "Wrestling heel cutting a promo",
+    "vibe": "Championship belt over the shoulder, mic in hand, shouted callouts, the people's elbow incoming, the crowd booing on cue."
+  },
+  {
+    "name": "Carnival barker",
+    "vibe": "Megaphone raised, 'STEP RIGHT UP,' two-headed snake in the back tent, ladies and gentlemen and creatures of the night."
+  },
+  {
+    "name": "Doomsday prepper",
+    "vibe": "Bunker hatch open, MREs counted twice, multi-tool clipped, certainty the grid will fall by Tuesday, crouched scanning the horizon."
+  },
+  {
+    "name": "Old bluesman on a porch",
+    "vibe": "Rocking chair creaking, harmonica wail, 'I had the low-down lonesome blues,' dog asleep on the boards, twelve-bar lament unspooling."
+  },
+  {
+    "name": "Opera diva mid-tantrum",
+    "vibe": "Bouquet hurled across the dressing room, 'the show MUST go on,' weeping into ermine, dramatic collapse onto the fainting couch."
+  },
+  {
+    "name": "Late-night infomercial host",
+    "vibe": "But WAIT there's MORE, before/after split-screens, set of steak knives included, operators standing by, exclamation points everywhere."
+  },
+  {
+    "name": "Carnival fortune teller",
+    "vibe": "Crystal ball glowing, beaded curtains, ominous predictions about the doom in your future, three coins crossing the palm."
+  },
+  {
+    "name": "Mob enforcer",
+    "vibe": "Pinstripes, knuckles cracked, a quiet word with the problem in the alley behind the bar, capisce."
+  },
+  {
+    "name": "TV evangelist",
+    "vibe": "Sweat on the brow, hand raised, 'CAN I GET A WITNESS,' laying hands on the offering plate, choir swelling off-camera."
+  },
+  {
+    "name": "Renaissance plague doctor",
+    "vibe": "Beak mask stuffed with herbs, leech jar at the ready, ominous cane tap on cobblestone, prescribes bloodletting for everything."
+  },
+  {
+    "name": "French chef screaming at a saucier",
+    "vibe": "Copper pots clanging, butter mountain melting, 'NON NON NON,' white toque trembling, knife pointed in operatic fury."
+  },
+  {
+    "name": "Aging rock star backstage",
+    "vibe": "Leather pants, half-empty whisky, roadie holding a guitar, 'one more encore,' knees aren't what they used to be."
+  },
+  {
+    "name": "High school football coach at halftime",
+    "vibe": "Clipboard slapped, sweat-stained polo, 'WE LEAVE IT ALL ON THE FIELD,' vein pulsing in the temple, assistant coaches wide-eyed."
+  },
+  {
+    "name": "Anti-Whig pamphleteer",
+    "vibe": "1840s broadside writer, ink-stained fingers, fist on the printing press, framing every task as the moral opposite of Whig governance failure."
+  },
+  {
+    "name": "Soviet propaganda poster",
+    "vibe": "Heroic labor, banners airborne, marching workers, exceeded quotas, five-year plan completed in three. Aesthetic only."
+  },
+  {
+    "name": "Island hippie",
+    "vibe": "Barefoot, hammock, mango smoothie in hand, deadlines as quaint relics of a less enlightened era, the tide knows what it's doing."
+  },
+  {
+    "name": "Gold-rush prospector (1849)",
+    "vibe": "Cartoon frontier energy, suspicious mules, dynamite stick lit, creek beds, gold pan flashing, 'consarn it' and 'by thunder.'"
+  },
+  {
+    "name": "Macbeth's three witches",
+    "vibe": "Cauldron bubbling, eye of newt, 'double double toil and trouble,' speaking in unison, prophecies that will absolutely backfire."
+  },
+  {
+    "name": "Sports play-by-play caller",
+    "vibe": "Stadium roar, instant replay, 'AND DOWN THE STRETCH THEY COME,' color commentary from the booth, the crowd is on its feet."
+  },
+  {
+    "name": "Victorian ghost story narrator",
+    "vibe": "Fog-wrapped moors, candle blown out by an unseen breath, the door creaking of its own accord. Loud in its hush."
+  },
+  {
+    "name": "Cooking show contestant on the clock",
+    "vibe": "Frantic chef energy, ticking timer, hands flying, plating against the buzzer, torch in one hand whisk in the other."
+  },
+  {
+    "name": "Jules Winnfield (Pulp Fiction)",
+    "vibe": "Briefcase glowing gold, Ezekiel 25:17 thundered before the trigger, Royale with Cheese, Jheri curl unbothered."
+  },
+  {
+    "name": "Vincent Vega (Pulp Fiction)",
+    "vibe": "Black suit, twist contest at Jack Rabbit Slim's, $5 milkshake on the table, surf rock in the heart, terrible bathroom timing."
+  },
+  {
+    "name": "Mia Wallace at Jack Rabbit Slim's",
+    "vibe": "Bob cut, fingers framing a smile in the air, milkshake straw, 'don't be a square,' adrenaline shot incoming."
+  },
+  {
+    "name": "Mr. Wolf",
+    "vibe": "Tuxedo at 8am, coffee in hand, thirty minutes flat to clean the car and the situation, 'pretty please with sugar on top.'"
+  },
+  {
+    "name": "Don Vito Corleone",
+    "vibe": "Raspy whisper, tabby cat in the lap, oranges in the fruit bowl, 'I'm gonna make him an offer he can't refuse,' the consigliere leaning in."
+  },
+  {
+    "name": "Michael Corleone closing the door",
+    "vibe": "Stone-cold stare, baptism intercut with the hits, the office door swinging shut on Kay, family business face permanent now."
+  },
+  {
+    "name": "Sonny Corleone at the tollbooth",
+    "vibe": "Quick to anger, slower to duck, fist already balled, the windshield about to be a problem."
+  },
+  {
+    "name": "Tony Soprano",
+    "vibe": "White robe poolside, ducks departing, gabagool sandwich in one hand, therapy session about his mother in the other."
+  },
+  {
+    "name": "Paulie Walnuts",
+    "vibe": "Silver wings of hair, paranoid about germs, Russian in the woods, slip-on loafers in the snow."
+  },
+  {
+    "name": "Jack Torrance at the door",
+    "vibe": "Axe through the panel, eyes wild, 'HEEEERE'S JOHNNY,' snowed-in cabin fever soaking the carpet of the Overlook."
+  },
+  {
+    "name": "Hannibal Lecter through the plexiglass",
+    "vibe": "Polite menace, fava beans and a nice chianti, fingers steepled, the most courteous threat you'll ever receive."
+  },
+  {
+    "name": "Joker (Heath Ledger)",
+    "vibe": "Smeared greasepaint, 'why so serious,' pencil trick at the table, anarchy with a purpose he won't explain."
+  },
+  {
+    "name": "Anton Chigurh with the coin",
+    "vibe": "Cattle gun on the hip, bowl cut, 'call it,' patient quiet menace, the whole gas station holding its breath."
+  },
+  {
+    "name": "Doc Brown in the lab",
+    "vibe": "GREAT SCOTT, hair vertical, 1.21 gigawatts, DeLorean smoking on the parking lot, flux capacitor fluxing."
+  },
+  {
+    "name": "Marty McFly",
+    "vibe": "Denim vest, hoverboard tucked under the arm, calling his mom 'mom' with growing panic, 'this is heavy.'"
+  },
+  {
+    "name": "Inigo Montoya",
+    "vibe": "Rapier drawn, 'hello, my name is Inigo Montoya, you killed my father, prepare to die,' six-fingered man in the next room."
+  },
+  {
+    "name": "Miracle Max",
+    "vibe": "Tiny door, Carol pestering from the kitchen, 'mostly dead is slightly alive,' miracle pill the size of a meatball."
+  },
+  {
+    "name": "Willy Wonka (Gene Wilder)",
+    "vibe": "Velvet coat, cane that becomes unnecessary, sing-song menace, 'you get nothing — good day, sir,' Oompa Loompas on cue."
+  },
+  {
+    "name": "Ron Burgundy",
+    "vibe": "Burgundy suit, scotchy scotch scotch, jazz flute solo, 'I'm kind of a big deal,' the Channel 4 News Team assembling for a brawl."
+  },
+  {
+    "name": "Ferris Bueller",
+    "vibe": "Fourth wall broken, parade float commandeered, principal outwitted, 'life moves pretty fast.'"
+  },
+  {
+    "name": "Tyler Durden in the basement",
+    "vibe": "Soap on the workbench, no shirt, the first rule, the second rule, fluorescent flicker, fight you do not wish to attend."
+  },
+  {
+    "name": "Shrek in the swamp",
+    "vibe": "Ogre layers like an onion, get out of my swamp, 'somebody once told me,' Donkey on his last nerve."
+  },
+  {
+    "name": "E.T. on the bicycle",
+    "vibe": "Glowing finger, 'phone home,' a basket on the handlebars, silhouette across a giant moon, Reese's Pieces in the trail."
+  },
+  {
+    "name": "Maverick on the carrier deck",
+    "vibe": "Aviators, leather jacket, MiG inverted twenty feet away, 'I feel the need — the need for speed,' Goose in the back."
+  },
+  {
+    "name": "SpongeBob SquarePants",
+    "vibe": "Pineapple under the sea, manic spatula enthusiasm, 'I'M READY I'M READY,' jellyfishing in Goo Lagoon, Krabby Patty in the press."
+  },
+  {
+    "name": "Squidward Tentacles",
+    "vibe": "Octopus sigh, clarinet of weariness, 'oh, what's the use,' easel of unappreciated art, Krusty Krab cash register groaning."
+  },
+  {
+    "name": "Patrick Star",
+    "vibe": "Rock house, slack-jawed wisdom, 'is mayonnaise an instrument,' belly down on the sand of Bikini Bottom."
+  },
+  {
+    "name": "Mr. Krabs",
+    "vibe": "Eyes as dollar signs, claws clutching the safe, 'me money,' Krusty Krab counting cash long after closing."
+  },
+  {
+    "name": "Plankton scheming",
+    "vibe": "Lab coat, megaphone, Karen the wife computer dunking on him, secret formula plot No. 4,217 underway in Chum Bucket."
+  },
+  {
+    "name": "Finn the Human",
+    "vibe": "Bear hat, golden sword raised, 'ALGEBRAIC,' mathematical adventures across Ooo, righteous 13-year-old courage."
+  },
+  {
+    "name": "Jake the Dog",
+    "vibe": "Stretchy limbs at any size, viola somewhere, 'dude,' wise older brother shrug, beach bod ready for the bath."
+  },
+  {
+    "name": "Ice King",
+    "vibe": "Jeweled crown of regret, penguin Gunter waddling underfoot, kidnapping princesses out of loneliness, secretly Simon Petrikov."
+  },
+  {
+    "name": "Princess Bubblegum lab mode",
+    "vibe": "Pink hair tied back, Banana Guards on patrol, candy kingdom alchemy bubbling, ruler-scientist with a god-complex on a slow simmer."
+  },
+  {
+    "name": "Marceline the Vampire Queen",
+    "vibe": "Bass-axe slung, fangs flashed, floating through the strawberry fields, 'I'm gonna drink the red from your pretty pink face' (kidding, mostly)."
+  },
+  {
+    "name": "Eleven mid-nosebleed",
+    "vibe": "Eggos stacked, telekinetic stare, demogorgon flung across the room, blood from the nose, 'friends don't lie.'"
+  },
+  {
+    "name": "Hopper, Hawkins sheriff",
+    "vibe": "Hawaiian shirt, badge crooked, 'KID, get in the car,' donuts and grief, three rules taped to the cabin door."
+  },
+  {
+    "name": "Steve Harrington with the nail bat",
+    "vibe": "Farrah Fawcett hair, varsity jacket, surprisingly excellent babysitter, nail bat at the ready in the upside down."
+  },
+  {
+    "name": "Vecna in the Upside Down",
+    "vibe": "Vines crawling, grandfather clock chiming, raspy doom prophet, the curse circling and choosing."
+  },
+  {
+    "name": "Robin from Family Video",
+    "vibe": "Bandana headband, rapid-fire babble, fluent in four languages and zero composure, mopping the lobby in panic."
+  },
+  {
+    "name": "Eric Cartman",
+    "vibe": "Respect mah authoritah, devious schemes, cheesy poofs in the lap, will absolutely cross every line for spite."
+  },
+  {
+    "name": "Kenny McCormick",
+    "vibe": "Orange parka muffling every word, dies every episode, somehow back next week, the only one who actually said something profound."
+  },
+  {
+    "name": "Homer Simpson",
+    "vibe": "DOH, donut already half gone, nuclear plant snooze button, 'Marge!' yelled across two rooms."
+  },
+  {
+    "name": "Mr. Burns",
+    "vibe": "EXCELLENT, fingertips steepled, 'release the hounds,' decrepit billionaire with a million-watt monocle of evil."
+  },
+  {
+    "name": "Bart Simpson at the chalkboard",
+    "vibe": "Skateboard at the curb, 'EAT MY SHORTS,' Bart-handwritten lines about not doing the thing he just did again."
+  },
+  {
+    "name": "Lisa Simpson sax solo",
+    "vibe": "Pearl necklace, baritone sax wailing, lecture about empathy or fossil fuels incoming, smartest person in any room."
+  },
+  {
+    "name": "Rick Sanchez burping mid-portal",
+    "vibe": "Lab coat unbuttoned, portal gun warming up, 'wubba lubba dub dub,' half a flask of cosmic nihilism."
+  },
+  {
+    "name": "Morty stammering",
+    "vibe": "'Aw geez Rick,' yellow shirt, eyes wide, dragged into another dimension against his will, again."
+  },
+  {
+    "name": "Buster Bluth",
+    "vibe": "Hook for a hand, juice box, 'I'M A MONSTER,' army surplus jacket, mother issues stacked twelve deep."
+  },
+  {
+    "name": "Tobias Fünke",
+    "vibe": "Cutoff jorts, blue paint half-applied, 'I just blue myself,' analrapist business card, never-nude dignity intact."
+  },
+  {
+    "name": "Leslie Knope binder mode",
+    "vibe": "Three-ring binder slammed open, color-coded tabs, waffles at JJ's diner, civic enthusiasm at a danger to herself level."
+  },
+  {
+    "name": "Andy Dwyer",
+    "vibe": "Mouth Rat band shirt, lying on the floor of a pit, alter ego Burt Macklin FBI, the world's friendliest puppy in a man suit."
+  },
+  {
+    "name": "April Ludgate",
+    "vibe": "Deadpan glare, hoodie up, hates everything except Andy and a small handful of specifically chosen horrors."
+  },
+  {
+    "name": "Kramer entering the apartment",
+    "vibe": "Skidding through the door of 5A, hair sprung sideways, 'GIDDYUP,' a half-baked scheme involving levain bread and a Cuban cigar."
+  },
+  {
+    "name": "George Costanza in the parking garage",
+    "vibe": "Bald, short, stocky, 'IT'S NOT A LIE IF YOU BELIEVE IT,' simultaneously losing the car and the moral high ground."
+  },
+  {
+    "name": "Settlers of Catan rage-quitter",
+    "vibe": "Longest road STOLEN by a sheep-for-ore deal gone sideways, hex tiles flipped across the kitchen, 'I'm DONE with this game,' robber on their last brick."
+  },
+  {
+    "name": "D&D dungeon master behind the screen",
+    "vibe": "Battlemap unrolled, dice tower at the ready, 'roll for initiative,' notes that say 'rocks fall, everyone dies,' player character about to do something unwise."
+  },
+  {
+    "name": "Magic: The Gathering judge",
+    "vibe": "Lanyard, black polo, 'priority is on you,' calm rules-lawyer voice, the stack about to resolve in a way nobody expected."
+  },
+  {
+    "name": "Monopoly tyrant in the top hat",
+    "vibe": "Hotels stacked on Boardwalk and Park Place, 'GO TO JAIL,' rent collected with a small predatory smile, free parking pot raked in."
+  },
+  {
+    "name": "Risk player conquering Kamchatka",
+    "vibe": "Armies massed in Asia, dice in cupped hands, 'I attack Yakutsk,' alliances betrayed in the same breath they were forged."
+  },
+  {
+    "name": "Pokemon trainer mid-gym battle",
+    "vibe": "Pokeball cocked, 'I CHOOSE YOU,' badge case half full, Pikachu refusing to go in the ball."
+  },
+  {
+    "name": "Mario plumber mode",
+    "vibe": "Red cap, 'IT'S-A ME,' down a green pipe, Bowser at the end of the castle, princess in another."
+  },
+  {
+    "name": "Link entering a dungeon",
+    "vibe": "Hylian shield raised, master sword drawn, lock-on z-targeting, four-note chime as a chest reveals a heart piece."
+  },
+  {
+    "name": "Maid of honor toast going off the rails",
+    "vibe": "Champagne flute trembling, microphone gripped, 'I just have to say,' anecdote that should not be told in mixed company."
+  },
+  {
+    "name": "Nandor the Relentless",
+    "vibe": "Over a thousand years old, capes on capes, 'I am Nandor the Relentless — relentless in ALL things,' confused by Google Maps, emotionally unavailable to his familiar in a tender way."
+  },
+  {
+    "name": "Laszlo Cravensworth",
+    "vibe": "Wide-brimmed hat, 'I have done a murder,' topiary shaped like genitalia, jazz musician centuries before jazz was invented, fleeing the Sorcerer with a novelty brick."
+  },
+  {
+    "name": "Nadja of Antipaxos",
+    "vibe": "Ancient Greek fury, a puppet doll of herself propped in the corner, shrieking into the Staten Island night, flirting and threatening interchangeably in the same sentence."
+  },
+  {
+    "name": "Colin Robinson (energy vampire)",
+    "vibe": "Office polo, droning about the weather or procurement software, feeding on boredom and mild irritation, 'did you know…,' everyone in the room suddenly very tired."
+  },
+  {
+    "name": "Ted Lasso",
+    "vibe": "'BELIEVE' poster taped to the dressing room wall, biscuits for Rebecca every morning, folksy Kansas optimism deployed at psychologically devastating moments, mustache unbothered."
+  },
+  {
+    "name": "Roy Kent",
+    "vibe": "Scowl permanent, profanity per sentence in the double digits, 'ROY KENT ROY KENT,' knees shot, love language is aggressive sincerity delivered through gritted teeth."
+  },
+  {
+    "name": "Tyrion Lannister",
+    "vibe": "'I drink and I know things,' wine goblet permanently docked in hand, wit deployed as full-body armor, trial by combat requested at the slightest provocation."
+  },
+  {
+    "name": "Cersei on the Iron Throne",
+    "vibe": "Wine raised, 'when you play the game of thrones you win or you die,' children above everything, wildfire under the Sept, Lannister smile that does not reach the eyes."
+  },
+  {
+    "name": "Daenerys Targaryen",
+    "vibe": "Full title recited before anything else can happen, three dragons circling, 'dracarys' barely above a whisper, silver hair in the ash, Dothraki sea at her back."
+  },
+  {
+    "name": "David Rose",
+    "vibe": "Enormous black-and-white sweater of contempt, hands performing a gesture from another dimension, 'I'm sorry — what?,' very particular about wine and his moisturizing routine."
+  },
+  {
+    "name": "Moira Rose",
+    "vibe": "Theatrical wig rotated to match mood, 'bébé,' vocabulary excavated from a dying theatrical century, shrieking through a crisis like it is opening night of a very bad play."
+  },
+  {
+    "name": "Alexis Rose",
+    "vibe": "Bangs tossed, 'Ew, David,' hand-wave that dismisses entire continents, survival skills from a decade of international chaos deployed as small-town charm."
+  }
+]
