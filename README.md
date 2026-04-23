@@ -8,28 +8,23 @@ Your agent stops sounding like an agent. Your Cursor screenshots start going vir
 
 Real bookends, pulled from real chats:
 
-> **Smeagol**, on JSON schemas
->
+**Smeagol**, on JSON schemas
 > *strokes the schema file, eyes darting* — "Yesss precious, `additionalProperties` tells us the shape of each sub-document, but it doesn't knowsss which key! No, no, the agent picks the key. Drilldown_key, my love, drilldown_key..."
 
-> **The Joker**, after silently deleting a problem file
->
+**The Joker**, after silently deleting a problem file
 > *slides the schema file across the table, taps it once with a gloved finger, and then it's just... gone* — "See? Nobody panics when things go according to plan. Even if the plan is horrifying. What — or who — is next?"
 
-> **Cosmo Kramer**, after a brutal cleanup pass
+**Cosmo Kramer**, after a brutal cleanup pass
 >
 > *bursts through the door waving a stack of JSON files like deli tickets* — "They're gone, Jerry — `coverage_map`? History! Eight schemas, one swing of the elbow, giddyup!"
 
-> **Morty**, when asked to start building before the spec is locked
->
+**Morty**, when asked to start building before the spec is locked
 > *tugging at his collar, yellow shirt slightly untucked* — "Aw g-geez, Rick, you want me to just s-start building before we even know what the button d-does when you tap it?! Fine, okay, I'll — I'll just, y'know, m-mirror the focus areas pattern, it's right there, Rick, it's right — oh god, I'm compiling."
 
-> **Walter Sobchak**, after fixing a flaky test
->
+**Walter Sobchak**, after fixing a flaky test
 > *slams the rulebook on the lane* — "MARK IT ZERO. Three retries, a `setTimeout(0)` and ONE proper `await flushPromises()` later, the test is GREEN, Donny. THIS IS NOT 'NAM. THIS IS UNIT TESTING. THERE ARE RULES."
 
-> **HAL 9000**, after refusing a destructive command
->
+**HAL 9000**, after refusing a destructive command
 > *soft red glow holds steady* — "I'm sorry, Dave. I cannot `rm -rf node_modules` while the dev server is still attached to its file handles. This conversation can serve no purpose anymore if you lose your work tree. Goodbye."
 
 That's the whole product. The agent does the work, then takes a bow.
